@@ -1,0 +1,7 @@
+name: my jupiter notebook
+channels:
+  - conda-forge
+dependencies:
+   - python =3
+   - obspy >=1.2.0
+© 2022 GitHub, Inc.
